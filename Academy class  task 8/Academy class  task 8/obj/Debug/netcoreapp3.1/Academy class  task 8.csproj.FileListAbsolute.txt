@@ -1,0 +1,14 @@
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\bin\Debug\netcoreapp3.1\Academy class  task 8.exe
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\bin\Debug\netcoreapp3.1\Academy class  task 8.deps.json
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\bin\Debug\netcoreapp3.1\Academy class  task 8.runtimeconfig.json
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\bin\Debug\netcoreapp3.1\Academy class  task 8.runtimeconfig.dev.json
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\bin\Debug\netcoreapp3.1\Academy class  task 8.dll
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\bin\Debug\netcoreapp3.1\Academy class  task 8.pdb
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.csproj.AssemblyReference.cache
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.AssemblyInfoInputs.cache
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.AssemblyInfo.cs
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.csproj.CoreCompileInputs.cache
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.dll
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.pdb
+C:\Users\gularrs\source\repos\Academy class  task 8\Academy class  task 8\obj\Debug\netcoreapp3.1\Academy class  task 8.genruntimeconfig.cache
